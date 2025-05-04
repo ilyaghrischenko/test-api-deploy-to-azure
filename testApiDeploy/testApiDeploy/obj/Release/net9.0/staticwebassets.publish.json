@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UqbhRUmG85ilFFVzLfHfC0s8bMazN38TqMkWDEPHB7E=",
+  "Source": "testApiDeploy",
+  "BasePath": "_content/testApiDeploy",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

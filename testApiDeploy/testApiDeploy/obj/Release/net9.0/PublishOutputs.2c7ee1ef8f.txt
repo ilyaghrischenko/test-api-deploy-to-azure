@@ -1,0 +1,9 @@
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/testApiDeploy
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/appsettings.Development.json
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/appsettings.json
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/testApiDeploy.dll
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/testApiDeploy.deps.json
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/testApiDeploy.runtimeconfig.json
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/testApiDeploy.pdb
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/Microsoft.AspNetCore.OpenApi.dll
+/var/folders/k5/345dhjdj1wl5hvm_gqnsftd00000gn/T/rider-publish17155832785823878159/Microsoft.OpenApi.dll

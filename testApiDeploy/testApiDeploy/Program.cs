@@ -15,3 +15,5 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.MapGet("/message", () => "message from my api on azure");
+
+app.Run();
