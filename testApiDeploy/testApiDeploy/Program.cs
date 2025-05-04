@@ -14,7 +14,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("/", () => "AZURE");
+app.MapGet("/", () => "AZURE 111");
 
 app.MapGet("/message", () => "message from my api on azure");
 
