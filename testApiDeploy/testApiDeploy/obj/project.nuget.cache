@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqbnbZ8k2bQ=",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/GitHub/test-api-deploy-to-azure/testApiDeploy/testApiDeploy/testApiDeploy.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
